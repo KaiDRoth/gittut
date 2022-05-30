@@ -1,3 +1,4 @@
-*.out
-c.unt
-moons/
+*.out #file endings
+c.unt #individual files
+moons/ #directories
+!a.out #do not exclude
